@@ -1,0 +1,28 @@
+Cluster A,,
+Feature Index,Neuronpedia Label,Manual Label
+574,XML string values,Technical Artificial Syntax (XML strings)
+2255,References to research authors and their affiliations,Technical Artificial Syntax (chinese surnames in research references)
+524,Quantities and measurements in various contexts,Technical Natural Language (adjective quantity that modifies a noun)
+575,phrases and terms related to types of letters (uppercase and lowercase) and names of specific characters or entities,Technical Natural Language (modifiers of or English-based letter categories)
+513,"References to the concept of ""picture"" in various contexts",Technical Natural Language (concept of a picture or image)
+558,"Fractions involving ""half""",Technical Artificial Syntax (integers preceding fractions)
+560,References to urban infrastructure and amenities,Technical Natural Language (urban structure and zoning)
+518,Infection or disease transmission,Technical Natural Language (spread of disease)
+572,HTML tags and structure within the document,Technical Artificial Syntax (HTML tags)
+500,Vietnamese names and places,Technical Artificial Syntax (vietnamese names and places in research)
+Cluster B,,
+Feature Index,Neuronpedia Label,Manual Label
+577,legal terms and phrases related to arrest and criminal activity,Technical/Social Natural Language (criminal procedure)
+573,references to relationships and social interactions,Social Natural Language (interpersonal interaction)
+576,"scenes involving movement, particularly of people or animals in a social context",Narrative Natural Language (physical approach)
+555,terms related to community involvement and engagement at various levels,Technical Natural Language (community or interpersonal 'levels')
+537,references to organizations or entities related to infrastructure,"Natural Language (relatively inscrutable, but code presence is very strong in negative logits)"
+545,French conditional conjunctions,Social Natural Language (french conjunctions)
+543,quote followed by dialogue,Social Natural Language (dialogue in or near quotations)
+565,references to historical events and their impact on society,Technical Natural Language (spans of time periods 'for' or 'over')
+548,climate change,Technical Natural Language (climate change)
+437,Terms related to leukemia and blood disorders,"Technical Natural Language (blood disorders, words around blood)"
+,,
+,,
+Cluster A: Formal Systems and Structure,,
+Cluster B: Narrative Reality and Experience,,
