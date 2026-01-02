@@ -29,7 +29,7 @@ The primary spectral dimension (Fiedler Vector) of Layer 20 does not divide conc
 ## 3. Geometric Anomaly: The "Formal Singularity"
 A critical topological finding is the geometric density of Pole A.
 
-* **The Observation:** In the first two spectral dimensions, Pole B (Narrative) displays significant vertical variance (spread), indicating a loose, diverse internal structure. In contrast, Pole A (Structure) collapses into a near 0-dimensional point (a "singularity").
+* **The Observation:** In the first two spectral dimensions, Pole B (Narrative) displays significant vertical spread, indicating a diverse internal structure. In contrast, Pole A (Structure) collapses into a near 0-dimensional point (a singularity).
 * **Interpretation:** The model’s internal representation of "Structure" (Math, Code, Citations) is hyper-connected and extremely dense. To the model, these concepts are mathematically almost identical in their rigidity, whereas "Narrative" concepts allow for a wide range of "soft" relationships.
 
 <p align="center">
